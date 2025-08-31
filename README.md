@@ -1,2 +1,2 @@
 # proyecto-sitio-web
-Portfolio Web
+Equipo 6 : Taller 6
